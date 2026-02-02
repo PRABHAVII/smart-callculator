@@ -20,7 +20,6 @@ This project was built to practice real-world frontend development concepts
 such as event handling, UI design, and clean code structure.
 
 ## Future Improvements
-- Remove eval() and implement custom expression parsing
 - Add installable PWA support
 - Accessibility improvements
 
